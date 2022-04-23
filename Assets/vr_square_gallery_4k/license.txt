@@ -1,0 +1,8 @@
+Model Information:
+* title:	VR Square Gallery 4k
+* source:	https://sketchfab.com/3d-models/vr-square-gallery-4k-45f0c745a303476d964422c5a3b3865a
+* author:	Marcin Lubecki (https://sketchfab.com/Lubus)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
