@@ -1,0 +1,11 @@
+Model Information:
+* title:	Signe Tegner
+* source:	https://sketchfab.com/3d-models/signe-tegner-381cbf8a06f042b9b41932f1f7ada997
+* author:	Geoffrey Marchal (https://sketchfab.com/geoffreymarchal)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Signe Tegner" (https://sketchfab.com/3d-models/signe-tegner-381cbf8a06f042b9b41932f1f7ada997) by Geoffrey Marchal (https://sketchfab.com/geoffreymarchal) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

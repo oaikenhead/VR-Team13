@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F0303314-1785-D371-974E-0F9EAAC16473}</ProjectGuid>
+    <ProjectGuid>{D91B7DA0-4105-F520-7DD5-FFD3EE3B9EFB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,17 +53,17 @@
     <UnityVersion>2020.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabImporterWindow.cs" />
+    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabExporter.cs" />
     <Compile Include="Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabModelWindow.cs" />
-    <Compile Include="Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserWindow.cs" />
-    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabApi.cs" />
-    <Compile Include="Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserManager.cs" />
     <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabLogger.cs" />
     <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabPlugin.cs" />
     <Compile Include="Assets/Sketchfab For Unity/Scripts/Resizer.cs" />
-    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabExporter.cs" />
-    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabImporter.cs" />
     <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabUI.cs" />
-    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabImporterWindow.cs" />
+    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabApi.cs" />
+    <Compile Include="Assets/Sketchfab For Unity/Scripts/SketchfabImporter.cs" />
+    <Compile Include="Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserWindow.cs" />
+    <Compile Include="Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFFlipTexture.shader" />
@@ -73,6 +73,8 @@
     <None Include="Assets/vr_square_gallery_4k/license.txt" />
     <None Include="Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll" />
     <None Include="Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll" />
+    <None Include="Assets/chinese_amoghasiddhi_buddha_1403_-_1424_ce/license.txt" />
+    <None Include="Assets/signe_tegner/license.txt" />
     <None Include="Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll" />
     <None Include="Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFBumpToNormal.shader" />
     <None Include="Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll" />
@@ -300,9 +302,6 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="GLTFSerialization">
       <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll</HintPath>
     </Reference>
@@ -311,6 +310,9 @@
     </Reference>
     <Reference Include="SketchfabPlugin">
       <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

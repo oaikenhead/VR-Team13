@@ -1,0 +1,282 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3,
+      "max": [
+        0.7232699990272522,
+        0.1649480015039444,
+        0.47310900688171387
+      ],
+      "min": [
+        0.7033020257949829,
+        0.1279519945383072,
+        0.46838700771331787
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36,
+      "componentType": 5126,
+      "count": 3,
+      "max": [
+        0.7828456163406372,
+        0.2602890729904175,
+        0.9291562438011169
+      ],
+      "min": [
+        -0.2625230550765991,
+        -0.411257803440094,
+        -0.46692579984664917
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3,
+      "max": [
+        0.8571019768714905,
+        0.883571982383728
+      ],
+      "min": [
+        0.8544210195541382,
+        0.8786050081253052
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 72,
+      "componentType": 5126,
+      "count": 47087,
+      "max": [
+        0.9364380240440369,
+        1.2273880243301392,
+        3.5508780479431152
+      ],
+      "min": [
+        -0.8126040101051331,
+        -1.3227440118789673,
+        0.08703900128602982
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 565116,
+      "componentType": 5126,
+      "count": 47087,
+      "max": [
+        0.9999921321868896,
+        0.9999909996986389,
+        0.9999972581863403
+      ],
+      "min": [
+        -0.9999927878379822,
+        -0.9998646378517151,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 47087,
+      "max": [
+        0.9980080127716064,
+        0.9656230211257935
+      ],
+      "min": [
+        0.0019920000340789557,
+        0.001927000004798174
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5125,
+      "count": 208701,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Minneapolis Institute of Art (https://sketchfab.com/artsmia)",
+      "license": "CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)",
+      "source": "https://sketchfab.com/3d-models/chinese-amoghasiddhi-buddha-1403-1424-ce-33699be99fd64375bf0371c0e0c12f70",
+      "title": "Chinese Amoghasiddhi Buddha, 1403 - 1424 CE"
+    },
+    "generator": "Sketchfab-12.63.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 834816,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 376720,
+      "byteOffset": 834816,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1130160,
+      "byteOffset": 1211536,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2341696,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/SeatedBuddhalambert6SG_baseColor.png"
+    },
+    {
+      "uri": "textures/SeatedBuddhalambert6SG_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "SeatedBuddhalambert6SG",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.991079602370014,
+          0.991079602370014,
+          0.991079602370014,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4870881142262583,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.2622588377560153e-17,
+        -1.2622588377560153e-17,
+        0.05684708431363106,
+        0.0,
+        0.05684708431363106,
+        2.802777649426636e-33,
+        -1.2622588377560153e-17,
+        0.0,
+        0.0,
+        0.05684708431363106,
+        1.2622588377560153e-17,
+        0.0,
+        0.10959115624427795,
+        3.1624305957984324e-18,
+        -0.014242321252822876,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Seated_Buddha.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
