@@ -1,0 +1,11 @@
+Model Information:
+* title:	metal sculptures_01
+* source:	https://sketchfab.com/3d-models/metal-sculptures-01-8ec6760bb0894256907353ca29574a8b
+* author:	Game industry veteran (https://sketchfab.com/zhengzhangxun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "metal sculptures_01" (https://sketchfab.com/3d-models/metal-sculptures-01-8ec6760bb0894256907353ca29574a8b) by Game industry veteran (https://sketchfab.com/zhengzhangxun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
