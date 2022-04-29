@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/Eklund/Desktop/VR_ObjectScene_Moogle/Moogle/Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
